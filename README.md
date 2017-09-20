@@ -1,3 +1,2 @@
-# techatbocconi.github.io
-the website of the association
-
+# techbocconi.com
+[The website of the association](http://techbocconi.com)
